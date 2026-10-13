@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: ../docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Yiqing Xu · Teaching"
+  site-url: https://xuyiqing.github.io/
+  navbar:
+    right:
+      - href: https://yiqingxu.org
+        text: Homepage
+      - icon: github
+        href: https://github.com/xuyiqing
+        aria-label: GitHub
+  page-footer:
+    left: "Yiqing Xu, Stanford University"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: false
+    page-layout: article

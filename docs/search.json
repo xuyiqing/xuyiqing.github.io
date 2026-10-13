@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Lecture slides with their LaTeX sources, R code and data, free to use and adapt in your own teaching. Each course site gives its license and how to cite it."
+  },
+  {
+    "objectID": "index.html#courses",
+    "href": "index.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nLectures on Causal Panel Analysis\nSix lectures on causal inference with panel data: the parametric approach, difference-in-differences, factorial difference-in-differences, two-way fixed effects, modern difference-in-differences, and synthetic control. Course site · GitHub repository"
+  },
+  {
+    "objectID": "index.html#earlier-course-sites",
+    "href": "index.html#earlier-course-sites",
+    "title": "Teaching",
+    "section": "Earlier course sites",
+    "text": "Earlier course sites\nFrom UC San Diego, kept as they were.\n\nPOLI 171: Making Policy with Data (2017)\nPOLI 273: Causal Inference (2017 and 2018)"
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Teaching",
+    "section": "Software",
+    "text": "Software\nThe R packages used in these courses, with their tutorials, are listed on yiqingxu.org."
+  }
+]

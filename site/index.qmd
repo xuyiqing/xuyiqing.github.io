@@ -1,0 +1,38 @@
+---
+title: "Teaching"
+subtitle: "Yiqing Xu, Stanford University"
+---
+
+Lecture slides with their LaTeX sources, R code and data, free to use and adapt in your own
+teaching. Each course site gives its license and how to cite it.
+
+## Courses
+
+### [Lectures on Causal Panel Analysis](https://xuyiqing.github.io/panel-lectures/)
+
+Six lectures on causal inference with panel data: the parametric approach,
+difference-in-differences, factorial difference-in-differences, two-way fixed effects, modern
+difference-in-differences, and synthetic control.
+[Course site](https://xuyiqing.github.io/panel-lectures/) ·
+[GitHub repository](https://github.com/xuyiqing/panel-lectures)
+
+<!-- Add when the repository goes public:
+### [POLI 450A: Political Methodology I (Regression)](https://xuyiqing.github.io/regression-lectures/)
+
+The first course in Stanford's political science PhD methods sequence: estimation and inference,
+simple and multiple regression, and robust and clustered standard errors, with worksheets.
+[Course site](https://xuyiqing.github.io/regression-lectures/) ·
+[GitHub repository](https://github.com/xuyiqing/regression-lectures)
+-->
+
+## Earlier course sites
+
+From UC San Diego, kept as they were.
+
+- [POLI 171: Making Policy with Data](https://xuyiqing.github.io/POLI171/) (2017)
+- [POLI 273: Causal Inference](https://xuyiqing.github.io/POLI273/) (2017 and 2018)
+
+## Software
+
+The R packages used in these courses, with their tutorials, are listed on
+[yiqingxu.org](https://yiqingxu.org/software/).

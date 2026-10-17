@@ -16,14 +16,12 @@ difference-in-differences, and synthetic control.
 [Course site](https://xuyiqing.github.io/panel-lectures/) ·
 [GitHub repository](https://github.com/xuyiqing/panel-lectures)
 
-<!-- Add when the repository goes public:
 ### [POLI 450A: Political Methodology I (Regression)](https://xuyiqing.github.io/regression-lectures/)
 
 The first course in Stanford's political science PhD methods sequence: estimation and inference,
 simple and multiple regression, and robust and clustered standard errors, with worksheets.
 [Course site](https://xuyiqing.github.io/regression-lectures/) ·
 [GitHub repository](https://github.com/xuyiqing/regression-lectures)
--->
 
 ## Earlier course sites
 

@@ -4,5 +4,9 @@ The teaching index at <https://xuyiqing.github.io/>: links to Yiqing Xu's course
 course has its own repository and site (for example
 [panel-lectures](https://github.com/xuyiqing/panel-lectures)).
 
-The page's Quarto source is in `site/`; `quarto render` there writes it to `docs/`, which GitHub
+**Since 2026-11-02 the front page redirects to <https://yiqingxu.org/teaching/>**, where the course list now
+lives: `docs/index.html` is a hand-written redirect. Running `quarto render` in `site/` would overwrite it with the
+old index, so don't, unless the redirect is meant to go.
+
+The old page's Quarto source is in `site/`; `quarto render` there writes it to `docs/`, which GitHub
 Pages serves. The 2021 Jekyll blog that used to live here is in the git history.
